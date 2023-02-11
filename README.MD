@@ -5,15 +5,17 @@
 </div>
 <br/>
 
-This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
 
 ## Getting Started
 
-**refine** is a React-based framework for building data-intensive applications in no time ✨
+**CMS + ** i've creaed this CMS to manage the Backend, it is created on top of ReactJS / refine and superplate frameworks to building data-intensive applications ✨
 
-Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
 
 ## Available Scripts
+
+you can download the code and run the code to see the following page:
+![Home-1](https://user-images.githubusercontent.com/55295850/218257148-b8c6e621-65fc-4ab5-962b-8703c25230ea.jpg)
+
 
 ### Running the development server.
 
@@ -21,11 +23,17 @@ Refine offers lots of out-of-the box functionality for rapid development, withou
     npm run dev
 ```
 
+![Home-2](https://user-images.githubusercontent.com/55295850/218257167-ef1609af-c6d1-45c3-8431-428b66ee9ccc.png)
+
+
 ### Building for production.
 
 ```bash
     npm run build
 ```
+
+![Post-2](https://user-images.githubusercontent.com/55295850/218257185-189564b7-23eb-4670-95ca-40014e54e2bd.png)
+
 
 ### Running the production server.
 
@@ -33,15 +41,9 @@ Refine offers lots of out-of-the box functionality for rapid development, withou
     npm run start
 ```
 
-## Learn More
-
-To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
-
-- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
+![Post-3](https://user-images.githubusercontent.com/55295850/218257189-9496e366-e91d-43ae-a8e1-c7ae424a0d6d.png)
 
 
-## License
+![Post-3](https://user-images.githubusercontent.com/55295850/218257220-0de39fa6-e75c-4d59-9b17-095c2810db7d.png)
 
-MIT
+
